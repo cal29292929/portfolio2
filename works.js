@@ -9,7 +9,7 @@ const WORKS = [
     desc: 'AI生成ビジュアルによるノベルゲーム風イベント企画動画。',
     color: '#22303A',
     url: 'https://cal29292929.github.io/adv-event-game/',
-    img: 'adv-game-thumb.webp',
+    img: 'assets/adv-game-thumb.webp',
     video: ''
   },
   {
@@ -19,7 +19,7 @@ const WORKS = [
     color: '#2A2A3A',
     url: '#',
     img: '',
-    video: 'shokurepo.mp4'
+    video: 'assets/shokurepo.mp4'
   },
   {
     title: 'メイドバトル Vol.1',
@@ -28,8 +28,8 @@ const WORKS = [
     color: '#333026',
     url: '#',
     img: '',
-    video: 'maidbattle-vol1.mp4',
-    poster: 'maidbattle-vol1-poster.webp'
+    video: 'assets/maidbattle-vol1.mp4',
+    poster: 'assets/maidbattle-vol1-poster.webp'
   },
   {
     title: 'メイドバトル Vol.2',
@@ -38,8 +38,8 @@ const WORKS = [
     color: '#2A3330',
     url: '#',
     img: '',
-    video: 'maidbattle-vol2.mp4',
-    poster: 'maidbattle-vol2-poster.webp'
+    video: 'assets/maidbattle-vol2.mp4',
+    poster: 'assets/maidbattle-vol2-poster.webp'
   },
   {
     title: 'AINina',
@@ -47,7 +47,7 @@ const WORKS = [
     desc: 'AIアニメMV「AINina」。',
     color: '#332A33',
     url: 'https://youtube.com/shorts/bthPFLLc4Fs',
-    img: 'ainina-thumb.jpg',
+    img: 'assets/ainina-thumb.jpg',
     video: ''
   }
 ];
